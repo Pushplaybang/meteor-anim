@@ -1,12 +1,12 @@
 # Anim
-Tiny animation utility to use with _uihooks
+Tiny animation utility for blaze  _uihooks using VelocityJS
 
 Anim wraps velocity, and provides a configurable convinence function for animating with `_uihooks` in meteor blaze templates._
 
 
 
 ## Install
-Simple install the package via atmosphere
+Simply install the package via atmosphere
 
 ```sh
 meteor add pushplaybang:anim
@@ -73,7 +73,7 @@ removeElement: function(node) {
 
 
 ### Contributions and Suggestions Welcome!
-Have something you think this needs or could use as an improvement, let me know.  add [an issue on github]() or fork and create a pull request.
+Have something you think this needs or could use as an improvement, let me know.  add [an issue on github](https://github.com/Pushplaybang/meteor-anim) or fork and create a pull request.
 
 
 

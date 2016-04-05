@@ -1,8 +1,8 @@
 /* eslint-disable */
 Package.describe({
   name: 'pushplaybang:anim',
-  version: '0.0.1',
-  summary: 'Tiny animation utility to use with _uihooks',
+  version: '0.0.2',
+  summary: 'Tiny animation utility for blaze _uihooks using velocityJS',
   git: '',
   documentation: 'README.md'
 });
